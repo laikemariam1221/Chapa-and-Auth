@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+lets bould the chat jpt note 1
+after develop the front end part we sould install some package
+cores express and nodemon
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
